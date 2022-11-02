@@ -200,7 +200,7 @@
                     app:layout_constraintTop_toTopOf="parent"
                     tools:ignore="SpeakableTextPresentCheck"
                     tools:itemCount="4"
-                    tools:listitem="@layout/list">
+                    tools:listitem="@layout/recycler">
 
                 </androidx.recyclerview.widget.RecyclerView>
 
